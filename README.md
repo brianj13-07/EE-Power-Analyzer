@@ -1,4 +1,4 @@
-### EE Power Analyzer
+# EE Power Analyzer
 
 ## Description:
 This Python Project reads electrical measurements data from a CSV file, the code calculates and analyzes voltage, current, power, and resistance.
