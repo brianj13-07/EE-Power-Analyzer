@@ -40,3 +40,13 @@ The code creates:
 - Creating graphs
 - Applying electrical engineering formulas and ideas with Python
 - Error checking
+
+## Results
+### Voltage vs Time
+![Voltage vs Time](voltage_vs_time.png)
+
+### Current vs Time
+![Current vs Time](current_vs_time.png)
+
+### Power vs Time
+![Power vs Time](power_vs_time.png)
