@@ -55,10 +55,10 @@ The code creates:
 1. Clone this respository
 1. Make sure Python is installed
 1. Install the required libraries:
-'''bash
-pip install pandas matplotlib
+- '''bash
+- pip install pandas matplotlib
 1. Make sure the CVS file is in the same folder as Power_Analyzer.py
 1. The program will:
-print the statistics in the terminal
-gnerate voltage, current, and power graphs
-create a CVS file with the analyzed data
+- print the statistics in the terminal
+- generate voltage, current, and power graphs
+- create a CVS file with the analyzed data
