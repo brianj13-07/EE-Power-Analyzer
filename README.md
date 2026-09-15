@@ -1,9 +1,9 @@
-EE Power Analyzer
+### EE Power Analyzer
 
-Description:
+## Description:
 This Python Project reads electrical measurements data from a CSV file, the code calculates and analyzes voltage, current, power, and resistance.
 
-Features:
+## Features:
 - Reads CSV data with pandas
 - Calculate power using the formula P = VI
 - Calculates resistance using the formula R = V/I
@@ -12,28 +12,28 @@ Features:
 - Detect zero-current values marking it as "Undefined"
 - Exported an analyzed data to a new CSV file
 
-Technologies Used:
+## Technologies Used:
 - Python
 - pandas
 - matplotlib
 
-Input Data:
+## Input Data:
 The input CSV file contains:
 - Time
 - Current
 - Voltage
 
-Formulas:
+## Formulas:
 - P = VI
 - R = V/I
 
-Output:
+## Output:
 The code creates:
 - Electrical statistics in the terminal
 - Three graphs
 - an analyzed_data.csv file
 
-What i learned:
+## What i learned:
 - Reading CSV files with pandas
 - Working with DataFrame
 - Using functions
